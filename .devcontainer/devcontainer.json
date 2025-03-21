@@ -5,6 +5,7 @@
   // Features list https://containers.dev/features
   "features": {
     "ghcr.io/devcontainers/features/java:1": {
+      "version": "17",
       "installMaven": "true",
       "installGradle": "false"
     },
